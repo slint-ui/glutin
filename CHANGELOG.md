@@ -5,7 +5,7 @@
   requested via `ConfigTemplateBuilder::with_api`.
 - Updated `objc2` frameworks dependency to `v0.3.2`.
 - Use `objc2-open-gl` instead of `cgl` dependency.
-- Bump MSRV from `1.71` to `1.86`.
+- Bump MSRV from `1.71` to `1.88`.
 - Fixed EGL's robustness detection without extension, but on EGL 1.5.
 - Fixed building docs on docs.rs.
 - Fixed WGL's unreliable TRANSPARENT_ARB false negatives by returning None
